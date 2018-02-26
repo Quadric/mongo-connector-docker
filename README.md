@@ -1,19 +1,11 @@
-# Mongo Connector 2.5-es_2.4.1
+# Mongo Connector 2.5.1-es_5
 
-This document describes how to use `mongo-connector:2.5-es_2.4.1` image
+This document describes how to use `mongo-connector:2.5.1-es_5` image
 
 ## Other dependencies
 
 The requirements are saved in the `requirements.txt` next to the Dockerfile, and the dependencies are static for now
 Maybe in the future I'll move these installations to the Dockerfile, and make them configurable through build vars
-
-For now they are:
-
-```bash
-mongo-connector==2.5
-elasticsearch==2.4.1
-elastic2-doc-manager[elastic2]==0.3.0
-```
 
 Follow latest releases using `pip/pip3 search <_keyword_>` or through the [pip package index](https://pypi.python.org/pypi/pip)
 

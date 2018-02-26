@@ -1,3 +1,11 @@
-mongo-connector==2.5
-elasticsearch==2.4.1
-elastic2-doc-manager[elastic2]==0.3.0
+# Using the [elastic5] syntax tell mongo-connector to install dependencies required for elastic5
+mongo-connector[elastic5]==2.5.1
+
+# According to the documentation in: [elasticsearch-py](https://github.com/elastic/elasticsearch-py) - [docs](https://elasticsearch-py.readthedocs.io/en/master/)
+# They released elasticsearch=5.x & elasticsearch5=5.x instead we needed to have multiple versions of elasticsearch installed in the system
+# 5.5.2 is the latest elasticsearch-py package for elastic5 at the time of creating this image (26Feb'18)
+elasticsearch==5.5.2
+# elasticsearch5==5.5.2
+
+# Elas
+elastic2-doc-manager[elastic5]==0.3.0
