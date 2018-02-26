@@ -1,0 +1,3 @@
+elasticsearch==2.4.0
+elastic2-doc-manager==0.1.0
+mongo-connector==2.3
