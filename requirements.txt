@@ -1,3 +1,7 @@
-mongo-connector==2.5
+mongo-connector==2.5.1
+
+# elasitcsearch2==2.5.0 is out (as dev)
 elasticsearch==2.4.1
+
+# https://github.com/mongodb-labs/elastic2-doc-manager
 elastic2-doc-manager[elastic2]==0.3.0

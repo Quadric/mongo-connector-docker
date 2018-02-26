@@ -1,6 +1,6 @@
-# Mongo Connector 2.5-es_2.4.1
+# Mongo Connector 2.5.1-es_2.4.1-slim
 
-This document describes how to use `mongo-connector:2.5-es_2.4.1` image
+This document describes how to use `mongo-connector:2.5.1-es_2.4.1-slim` image
 
 ## Other dependencies
 

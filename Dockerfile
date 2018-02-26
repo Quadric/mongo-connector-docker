@@ -1,4 +1,4 @@
-FROM python:3.4.7-jessie
+FROM python:3.4.8-slim-jessie
 
 LABEL net.quadric.vendor="Quadric ApS" maintainer="Ahmed Magdy <ahmed.magdy@quadric.net>"
 
