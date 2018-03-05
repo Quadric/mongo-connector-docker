@@ -26,3 +26,4 @@ Or get more details about each image in the table below, in case you want to fix
 | quadric/mongo-connector:2.5.1-es_2.4.1-slim | https://github.com/Quadric/mongo-connector-docker/tree/2.5.1-es_2.4.1-slim |
 | quadric/mongo-connector:2.5-es_2.4.1-neo4j | https://github.com/Quadric/mongo-connector-docker/tree/2.5-es_2.4.1-neo4j |
 | quadric/mongo-connector:2.5.1-es_5 | https://github.com/Quadric/mongo-connector-docker/tree/2.5.1-es_5 |
+| quadric/mongo-connector:2.5.1-es_5-slim | https://github.com/Quadric/mongo-connector-docker/tree/2.5.1-es_5-slim |
